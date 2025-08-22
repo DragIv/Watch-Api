@@ -1,0 +1,11 @@
+# Rider
+.idea/
+*.sln.DotSettings.user
+
+# Build
+bin/
+obj/
+
+# VS
+*.user
+*.vs
