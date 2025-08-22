@@ -1,0 +1,56 @@
+2025-08-22 14:21:57.623 +03:00 [INF] Seeded demo data
+2025-08-22 14:21:58.796 +03:00 [INF] GET /swagger -> 301 in 62 ms
+2025-08-22 14:21:58.815 +03:00 [INF] HTTP GET /swagger responded 301 in 87.6634 ms
+2025-08-22 14:21:58.953 +03:00 [INF] GET /swagger/index.html -> 200 in 115 ms
+2025-08-22 14:21:58.957 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 120.2413 ms
+2025-08-22 14:21:59.072 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 86 ms
+2025-08-22 14:21:59.072 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 86 ms
+2025-08-22 14:21:59.091 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 105.7276 ms
+2025-08-22 14:21:59.098 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 112.5458 ms
+2025-08-22 14:21:59.107 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 121 ms
+2025-08-22 14:21:59.118 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 133.1355 ms
+2025-08-22 14:21:59.330 +03:00 [INF] GET /swagger/favicon-32x32.png -> 200 in 0 ms
+2025-08-22 14:21:59.337 +03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 7.5897 ms
+2025-08-22 14:21:59.541 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 238 ms
+2025-08-22 14:21:59.545 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 242.1936 ms
+2025-08-22 14:22:12.634 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-22 14:22:13.100 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-22 14:22:13.140 +03:00 [INF] GET /api/market/top -> 200 in 533 ms
+2025-08-22 14:22:13.144 +03:00 [INF] HTTP GET /api/market/top responded 200 in 537.6941 ms
+2025-08-22 14:22:28.923 +03:00 [DBG] Found CoinGecko ID 'dogecoin' for symbol 'DOGE'
+2025-08-22 14:22:28.928 +03:00 [DBG] Fetching price for DOGE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=dogecoin&vs_currencies=usd
+2025-08-22 14:22:29.013 +03:00 [INF] Real price for DOGE: $0.212519
+2025-08-22 14:22:29.017 +03:00 [INF] GET /api/market/quote/DOGE -> 200 in 477 ms
+2025-08-22 14:22:29.021 +03:00 [INF] HTTP GET /api/market/quote/DOGE responded 200 in 481.3779 ms
+2025-08-22 14:22:30.876 +03:00 [DBG] Found CoinGecko ID 'dogecoin' for symbol 'DOGE'
+2025-08-22 14:22:30.881 +03:00 [DBG] Fetching price for DOGE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=dogecoin&vs_currencies=usd
+2025-08-22 14:22:30.956 +03:00 [INF] Real price for DOGE: $0.212519
+2025-08-22 14:22:30.961 +03:00 [INF] GET /api/market/quote/DOGE -> 200 in 216 ms
+2025-08-22 14:22:30.967 +03:00 [INF] HTTP GET /api/market/quote/DOGE responded 200 in 222.6922 ms
+2025-08-22 14:24:33.857 +03:00 [INF] GET /api/Portfolios -> 200 in 80 ms
+2025-08-22 14:24:33.863 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 86.5388 ms
+2025-08-22 16:17:06.221 +03:00 [INF] Seeded demo data
+2025-08-22 16:17:06.840 +03:00 [INF] GET /swagger -> 301 in 56 ms
+2025-08-22 16:17:06.859 +03:00 [INF] HTTP GET /swagger responded 301 in 80.4842 ms
+2025-08-22 16:17:07.074 +03:00 [INF] GET /swagger/index.html -> 200 in 122 ms
+2025-08-22 16:17:07.080 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 128.9346 ms
+2025-08-22 16:17:07.148 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 31 ms
+2025-08-22 16:17:07.148 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 42 ms
+2025-08-22 16:17:07.148 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 42 ms
+2025-08-22 16:17:07.158 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 41.3031 ms
+2025-08-22 16:17:07.162 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 56.3284 ms
+2025-08-22 16:17:07.170 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 64.6901 ms
+2025-08-22 16:17:07.661 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 218 ms
+2025-08-22 16:17:07.664 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 222.3941 ms
+2025-08-22 16:17:15.828 +03:00 [INF] GET /api/Portfolios -> 200 in 57 ms
+2025-08-22 16:17:15.833 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 61.3868 ms
+2025-08-22 16:17:17.243 +03:00 [INF] GET /api/Portfolios -> 200 in 1 ms
+2025-08-22 16:17:17.247 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 5.2165 ms
+2025-08-22 16:17:32.525 +03:00 [INF] GET /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce -> 200 in 24 ms
+2025-08-22 16:17:32.529 +03:00 [INF] HTTP GET /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce responded 200 in 27.9067 ms
+2025-08-22 16:17:33.478 +03:00 [INF] GET /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce -> 200 in 0 ms
+2025-08-22 16:17:33.482 +03:00 [INF] HTTP GET /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce responded 200 in 4.4899 ms
+2025-08-22 16:17:50.720 +03:00 [INF] DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce -> 401 in 0 ms
+2025-08-22 16:17:50.728 +03:00 [INF] HTTP DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce responded 401 in 8.2896 ms
+2025-08-22 16:17:52.102 +03:00 [INF] DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce -> 401 in 0 ms
+2025-08-22 16:17:52.106 +03:00 [INF] HTTP DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce responded 401 in 4.3632 ms

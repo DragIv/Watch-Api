@@ -1,0 +1,1019 @@
+2025-08-21 12:26:43.647 +03:00 [INF] Seeded demo data
+2025-08-21 12:26:44.037 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 12:26:45.236 +03:00 [INF] GET /swagger -> 301 in 65 ms
+2025-08-21 12:26:45.267 +03:00 [INF] HTTP GET /swagger responded 301 in 100.0328 ms
+2025-08-21 12:26:45.418 +03:00 [INF] GET /swagger/index.html -> 200 in 120 ms
+2025-08-21 12:26:45.423 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 125.9223 ms
+2025-08-21 12:26:45.474 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 29 ms
+2025-08-21 12:26:45.474 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 29 ms
+2025-08-21 12:26:45.480 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 34.6069 ms
+2025-08-21 12:26:45.483 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 37.9299 ms
+2025-08-21 12:26:45.515 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 69 ms
+2025-08-21 12:26:45.520 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 75.4213 ms
+2025-08-21 12:26:45.996 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 230 ms
+2025-08-21 12:26:45.999 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 233.8111 ms
+2025-08-21 12:26:58.179 +03:00 [INF] GET /api/Assets -> 200 in 111 ms
+2025-08-21 12:26:58.186 +03:00 [INF] HTTP GET /api/Assets responded 200 in 119.2889 ms
+2025-08-21 12:27:41.970 +03:00 [INF] GET /api/Assets/83a0af8d-3f65-4f71-b23e-1694f238f28a -> 200 in 13 ms
+2025-08-21 12:27:41.977 +03:00 [INF] HTTP GET /api/Assets/83a0af8d-3f65-4f71-b23e-1694f238f28a responded 200 in 20.1708 ms
+2025-08-21 12:28:16.578 +03:00 [DBG] Quote BTC = 34405.32
+2025-08-21 12:28:16.588 +03:00 [DBG] Quote ETH = 8045.36
+2025-08-21 12:28:16.593 +03:00 [DBG] Quote SOL = 7275.91
+2025-08-21 12:28:16.598 +03:00 [DBG] Quote XRP = 27138.21
+2025-08-21 12:28:16.624 +03:00 [INF] GET /api/market/top -> 200 in 54 ms
+2025-08-21 12:28:16.630 +03:00 [INF] HTTP GET /api/market/top responded 200 in 61.5264 ms
+2025-08-21 12:28:20.216 +03:00 [DBG] Quote BTC = 9421.71
+2025-08-21 12:28:20.221 +03:00 [DBG] Quote ETH = 14129.63
+2025-08-21 12:28:20.226 +03:00 [DBG] Quote SOL = 37220.42
+2025-08-21 12:28:20.231 +03:00 [DBG] Quote XRP = 26646.14
+2025-08-21 12:28:20.237 +03:00 [INF] GET /api/market/top -> 200 in 20 ms
+2025-08-21 12:28:20.242 +03:00 [INF] HTTP GET /api/market/top responded 200 in 26.1611 ms
+2025-08-21 12:29:00.920 +03:00 [INF] GET /api/Portfolios -> 200 in 21 ms
+2025-08-21 12:29:00.926 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 27.5077 ms
+2025-08-21 12:29:20.552 +03:00 [INF] POST /api/Portfolios -> 201 in 59 ms
+2025-08-21 12:29:20.558 +03:00 [INF] HTTP POST /api/Portfolios responded 201 in 65.5409 ms
+2025-08-21 12:29:36.659 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 12:29:36.666 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 7.6004 ms
+2025-08-21 12:29:51.048 +03:00 [INF] GET /dashboard -> 200 in 1 ms
+2025-08-21 12:29:51.062 +03:00 [INF] HTTP GET /dashboard responded 200 in 15.7108 ms
+2025-08-21 12:32:27.671 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 12:32:27.677 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 6.7791 ms
+2025-08-21 12:32:38.881 +03:00 [INF] POST /api/Portfolios/abefbe30-f74f-4ecf-a560-19e3902780ce/holdings -> 201 in 46 ms
+2025-08-21 12:32:38.889 +03:00 [INF] HTTP POST /api/Portfolios/abefbe30-f74f-4ecf-a560-19e3902780ce/holdings responded 201 in 54.2887 ms
+2025-08-21 12:33:09.820 +03:00 [DBG] Quote BTC = 9682.56
+2025-08-21 12:33:09.827 +03:00 [INF] GET /api/market/quote/BTC -> 200 in 8 ms
+2025-08-21 12:33:09.834 +03:00 [INF] HTTP GET /api/market/quote/BTC responded 200 in 14.9791 ms
+2025-08-21 12:55:28.379 +03:00 [INF] Seeded demo data
+2025-08-21 12:55:28.581 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 12:55:29.585 +03:00 [INF] GET /swagger -> 301 in 85 ms
+2025-08-21 12:55:29.609 +03:00 [INF] HTTP GET /swagger responded 301 in 115.5625 ms
+2025-08-21 12:55:29.805 +03:00 [INF] GET /swagger/index.html -> 200 in 164 ms
+2025-08-21 12:55:29.813 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 172.4572 ms
+2025-08-21 12:55:29.868 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 30 ms
+2025-08-21 12:55:29.868 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 30 ms
+2025-08-21 12:55:29.875 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 36.9704 ms
+2025-08-21 12:55:29.877 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 38 ms
+2025-08-21 12:55:29.880 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 41.8573 ms
+2025-08-21 12:55:29.892 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 53.5011 ms
+2025-08-21 12:55:30.473 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 282 ms
+2025-08-21 12:55:30.479 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 288.2645 ms
+2025-08-21 12:55:57.081 +03:00 [INF] GET /api/Assets -> 200 in 94 ms
+2025-08-21 12:55:57.087 +03:00 [INF] HTTP GET /api/Assets responded 200 in 100.5720 ms
+2025-08-21 12:58:30.354 +03:00 [INF] GET /api/Assets -> 200 in 2 ms
+2025-08-21 12:58:30.361 +03:00 [INF] HTTP GET /api/Assets responded 200 in 9.9295 ms
+2025-08-21 12:58:38.484 +03:00 [INF] GET /api/Assets/by-symbol/BTC -> 200 in 23 ms
+2025-08-21 12:58:38.489 +03:00 [INF] HTTP GET /api/Assets/by-symbol/BTC responded 200 in 29.4924 ms
+2025-08-21 12:58:49.603 +03:00 [INF] GET /api/Assets/by-symbol/BTC%D0%BC -> 404 in 32 ms
+2025-08-21 12:58:49.608 +03:00 [INF] HTTP GET /api/Assets/by-symbol/BTCм responded 404 in 37.8634 ms
+2025-08-21 12:59:52.519 +03:00 [INF] Asset updated "9b9bfca1-4a76-419a-8a94-ce5f7b69bf10"
+2025-08-21 12:59:52.527 +03:00 [INF] PUT /api/Assets/9b9bfca1-4a76-419a-8a94-ce5f7b69bf10 -> 204 in 48 ms
+2025-08-21 12:59:52.533 +03:00 [INF] HTTP PUT /api/Assets/9b9bfca1-4a76-419a-8a94-ce5f7b69bf10 responded 204 in 54.4559 ms
+2025-08-21 13:00:06.640 +03:00 [INF] GET /api/Assets -> 200 in 0 ms
+2025-08-21 13:00:06.646 +03:00 [INF] HTTP GET /api/Assets responded 200 in 6.4624 ms
+2025-08-21 13:00:24.550 +03:00 [INF] DELETE /api/Assets/9b9bfca1-4a76-419a-8a94-ce5f7b69bf10 -> 204 in 9 ms
+2025-08-21 13:00:24.558 +03:00 [INF] HTTP DELETE /api/Assets/9b9bfca1-4a76-419a-8a94-ce5f7b69bf10 responded 204 in 16.5923 ms
+2025-08-21 13:00:29.699 +03:00 [INF] DELETE /api/Assets/9b9bfca1-4a76-419a-8a94-ce5f7b69bf10 -> 404 in 1 ms
+2025-08-21 13:00:29.705 +03:00 [INF] HTTP DELETE /api/Assets/9b9bfca1-4a76-419a-8a94-ce5f7b69bf10 responded 404 in 7.4351 ms
+2025-08-21 13:00:34.558 +03:00 [INF] GET /api/Assets -> 200 in 0 ms
+2025-08-21 13:00:34.565 +03:00 [INF] HTTP GET /api/Assets responded 200 in 7.9980 ms
+2025-08-21 13:00:56.595 +03:00 [DBG] Quote BTC = 34405.32
+2025-08-21 13:00:56.603 +03:00 [DBG] Quote ETH = 8045.36
+2025-08-21 13:00:56.608 +03:00 [DBG] Quote SOL = 7275.91
+2025-08-21 13:00:56.614 +03:00 [DBG] Quote XRP = 27138.21
+2025-08-21 13:00:56.631 +03:00 [INF] GET /api/market/top -> 200 in 42 ms
+2025-08-21 13:00:56.638 +03:00 [INF] HTTP GET /api/market/top responded 200 in 48.9522 ms
+2025-08-21 13:01:10.497 +03:00 [INF] GET /api/Portfolios -> 200 in 19 ms
+2025-08-21 13:01:10.504 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 26.5894 ms
+2025-08-21 13:01:19.073 +03:00 [DBG] Quote BTC = 9421.71
+2025-08-21 13:01:19.078 +03:00 [DBG] Quote ETH = 14129.63
+2025-08-21 13:01:19.082 +03:00 [DBG] Quote SOL = 37220.42
+2025-08-21 13:01:19.086 +03:00 [DBG] Quote XRP = 26646.14
+2025-08-21 13:01:19.092 +03:00 [INF] GET /api/market/top -> 200 in 18 ms
+2025-08-21 13:01:19.097 +03:00 [INF] HTTP GET /api/market/top responded 200 in 23.5048 ms
+2025-08-21 13:01:52.832 +03:00 [DBG] Quote BTC = 9682.56
+2025-08-21 13:01:52.838 +03:00 [INF] GET /api/market/quote/btc -> 200 in 6 ms
+2025-08-21 13:01:52.844 +03:00 [INF] HTTP GET /api/market/quote/btc responded 200 in 12.6206 ms
+2025-08-21 13:02:12.668 +03:00 [DBG] Quote BTC = 39062.53
+2025-08-21 13:02:12.673 +03:00 [DBG] Quote ETH = 12729.42
+2025-08-21 13:02:12.677 +03:00 [DBG] Quote SOL = 13866.07
+2025-08-21 13:02:12.681 +03:00 [DBG] Quote XRP = 26280.18
+2025-08-21 13:02:12.685 +03:00 [INF] GET /api/market/top -> 200 in 17 ms
+2025-08-21 13:02:12.691 +03:00 [INF] HTTP GET /api/market/top responded 200 in 22.9803 ms
+2025-08-21 13:12:22.227 +03:00 [INF] Seeded demo data
+2025-08-21 13:12:22.434 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 13:12:23.244 +03:00 [INF] GET /swagger -> 301 in 98 ms
+2025-08-21 13:12:23.266 +03:00 [INF] HTTP GET /swagger responded 301 in 124.6854 ms
+2025-08-21 13:12:23.576 +03:00 [INF] GET /swagger/index.html -> 200 in 162 ms
+2025-08-21 13:12:23.583 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 169.6639 ms
+2025-08-21 13:12:23.634 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 29 ms
+2025-08-21 13:12:23.634 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 28 ms
+2025-08-21 13:12:23.641 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 35.8882 ms
+2025-08-21 13:12:23.645 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 39 ms
+2025-08-21 13:12:23.646 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 40.2394 ms
+2025-08-21 13:12:23.657 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 52.1706 ms
+2025-08-21 13:12:24.177 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 258 ms
+2025-08-21 13:12:24.182 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 264.1608 ms
+2025-08-21 13:12:32.107 +03:00 [INF] GET /dashboard -> 200 in 7 ms
+2025-08-21 13:12:32.115 +03:00 [INF] HTTP GET /dashboard responded 200 in 14.8513 ms
+2025-08-21 13:13:36.558 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:13:38.381 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:13:38.417 +03:00 [INF] GET /api/market/top -> 200 in 1879 ms
+2025-08-21 13:13:38.424 +03:00 [INF] HTTP GET /api/market/top responded 200 in 1886.6150 ms
+2025-08-21 13:14:58.279 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:14:58.287 +03:00 [INF] HTTP GET /dashboard responded 200 in 8.3743 ms
+2025-08-21 13:14:58.374 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:14:58.442 +03:00 [INF] GET /favicon.ico -> 404 in 0 ms
+2025-08-21 13:14:58.448 +03:00 [INF] HTTP GET /favicon.ico responded 404 in 6.9244 ms
+2025-08-21 13:14:58.989 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:14:58.999 +03:00 [INF] GET /api/market/top -> 200 in 626 ms
+2025-08-21 13:14:59.010 +03:00 [INF] HTTP GET /api/market/top responded 200 in 637.0710 ms
+2025-08-21 13:21:21.208 +03:00 [INF] Seeded demo data
+2025-08-21 13:21:21.403 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 13:21:22.255 +03:00 [INF] GET /swagger -> 301 in 72 ms
+2025-08-21 13:21:22.276 +03:00 [INF] HTTP GET /swagger responded 301 in 98.6000 ms
+2025-08-21 13:21:22.516 +03:00 [INF] GET /swagger/index.html -> 200 in 210 ms
+2025-08-21 13:21:22.524 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 219.0594 ms
+2025-08-21 13:21:22.604 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 37 ms
+2025-08-21 13:21:22.604 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 36 ms
+2025-08-21 13:21:22.612 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 44.7885 ms
+2025-08-21 13:21:22.613 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 45 ms
+2025-08-21 13:21:22.618 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 50.4464 ms
+2025-08-21 13:21:22.630 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 62.8777 ms
+2025-08-21 13:21:23.295 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 307 ms
+2025-08-21 13:21:23.302 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 313.5642 ms
+2025-08-21 13:21:31.642 +03:00 [INF] GET /dashboard -> 200 in 3 ms
+2025-08-21 13:21:31.649 +03:00 [INF] HTTP GET /dashboard responded 200 in 10.5662 ms
+2025-08-21 13:21:31.711 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:21:32.790 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:21:32.830 +03:00 [INF] GET /api/market/top -> 200 in 1143 ms
+2025-08-21 13:21:32.836 +03:00 [INF] HTTP GET /api/market/top responded 200 in 1149.9281 ms
+2025-08-21 13:22:13.866 +03:00 [INF] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 in 0 ms
+2025-08-21 13:22:13.871 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 5.9873 ms
+2025-08-21 13:26:16.460 +03:00 [INF] Seeded demo data
+2025-08-21 13:26:16.649 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 13:26:17.495 +03:00 [INF] GET /swagger -> 301 in 46 ms
+2025-08-21 13:26:17.517 +03:00 [INF] HTTP GET /swagger responded 301 in 71.0936 ms
+2025-08-21 13:26:17.830 +03:00 [INF] GET /swagger/index.html -> 200 in 248 ms
+2025-08-21 13:26:17.840 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 258.9674 ms
+2025-08-21 13:26:17.945 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 30 ms
+2025-08-21 13:26:17.945 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 24 ms
+2025-08-21 13:26:17.953 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 38.4420 ms
+2025-08-21 13:26:17.961 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 41.0002 ms
+2025-08-21 13:26:17.974 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 56 ms
+2025-08-21 13:26:17.984 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 67.0793 ms
+2025-08-21 13:26:18.527 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 296 ms
+2025-08-21 13:26:18.532 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 302.4610 ms
+2025-08-21 13:26:22.476 +03:00 [INF] GET /dashboard -> 200 in 5 ms
+2025-08-21 13:26:22.482 +03:00 [INF] HTTP GET /dashboard responded 200 in 11.2407 ms
+2025-08-21 13:26:22.542 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:26:25.331 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:26:25.364 +03:00 [INF] GET /api/market/top -> 200 in 2844 ms
+2025-08-21 13:26:25.370 +03:00 [INF] HTTP GET /api/market/top responded 200 in 2850.9868 ms
+2025-08-21 13:26:27.797 +03:00 [INF] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 in 0 ms
+2025-08-21 13:26:27.803 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 5.8311 ms
+2025-08-21 13:27:14.752 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:27:14.758 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.6837 ms
+2025-08-21 13:27:15.380 +03:00 [INF] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 in 0 ms
+2025-08-21 13:27:15.387 +03:00 [INF] HTTP GET /.well-known/appspecific/com.chrome.devtools.json responded 404 in 7.1091 ms
+2025-08-21 13:27:15.404 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:27:16.545 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:27:16.554 +03:00 [INF] GET /api/market/top -> 200 in 1152 ms
+2025-08-21 13:27:16.562 +03:00 [INF] HTTP GET /api/market/top responded 200 in 1160.1229 ms
+2025-08-21 13:33:41.139 +03:00 [INF] Seeded demo data
+2025-08-21 13:33:41.334 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 13:33:42.295 +03:00 [INF] GET /swagger -> 301 in 75 ms
+2025-08-21 13:33:42.315 +03:00 [INF] HTTP GET /swagger responded 301 in 102.8473 ms
+2025-08-21 13:33:42.468 +03:00 [INF] GET /swagger/index.html -> 200 in 134 ms
+2025-08-21 13:33:42.476 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 142.3586 ms
+2025-08-21 13:33:42.539 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 31 ms
+2025-08-21 13:33:42.539 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 32 ms
+2025-08-21 13:33:42.544 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 36 ms
+2025-08-21 13:33:42.545 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 38.1646 ms
+2025-08-21 13:33:42.550 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 43.7352 ms
+2025-08-21 13:33:42.555 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 48.3053 ms
+2025-08-21 13:33:43.092 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 243 ms
+2025-08-21 13:33:43.098 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 249.3352 ms
+2025-08-21 13:33:57.175 +03:00 [INF] GET /dashboard -> 200 in 6 ms
+2025-08-21 13:33:57.182 +03:00 [INF] HTTP GET /dashboard responded 200 in 12.9735 ms
+2025-08-21 13:33:57.254 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:33:57.965 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:33:57.999 +03:00 [INF] GET /api/market/top -> 200 in 763 ms
+2025-08-21 13:33:58.007 +03:00 [INF] HTTP GET /api/market/top responded 200 in 771.8753 ms
+2025-08-21 13:34:03.193 +03:00 [DBG] Fetching price for BTC from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 13:34:03.287 +03:00 [INF] Real price for BTC: $113416
+2025-08-21 13:34:03.293 +03:00 [INF] GET /api/market/quote/BTC -> 200 in 103 ms
+2025-08-21 13:34:03.301 +03:00 [INF] HTTP GET /api/market/quote/BTC responded 200 in 111.1214 ms
+2025-08-21 13:34:04.302 +03:00 [DBG] Fetching price for BTC from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 13:34:04.471 +03:00 [INF] Real price for BTC: $113416
+2025-08-21 13:34:04.475 +03:00 [INF] GET /api/market/quote/BTC -> 200 in 174 ms
+2025-08-21 13:34:04.481 +03:00 [INF] HTTP GET /api/market/quote/BTC responded 200 in 180.0185 ms
+2025-08-21 13:34:07.750 +03:00 [DBG] Fetching price for ETH from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd
+2025-08-21 13:34:07.932 +03:00 [INF] Real price for ETH: $4285.75
+2025-08-21 13:34:07.939 +03:00 [INF] GET /api/market/quote/ETH -> 200 in 189 ms
+2025-08-21 13:34:07.949 +03:00 [INF] HTTP GET /api/market/quote/ETH responded 200 in 198.8791 ms
+2025-08-21 13:34:08.696 +03:00 [DBG] Fetching price for ETH from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd
+2025-08-21 13:34:08.994 +03:00 [INF] Real price for ETH: $4285.75
+2025-08-21 13:34:08.999 +03:00 [INF] GET /api/market/quote/ETH -> 200 in 302 ms
+2025-08-21 13:34:09.004 +03:00 [INF] HTTP GET /api/market/quote/ETH responded 200 in 308.6099 ms
+2025-08-21 13:34:12.470 +03:00 [DBG] Fetching price for BTC from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 13:34:12.606 +03:00 [INF] Real price for BTC: $113416
+2025-08-21 13:34:12.611 +03:00 [INF] GET /api/market/quote/BTC -> 200 in 141 ms
+2025-08-21 13:34:12.619 +03:00 [INF] HTTP GET /api/market/quote/BTC responded 200 in 149.5994 ms
+2025-08-21 13:34:27.342 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:27.349 +03:00 [INF] HTTP GET /dashboard responded 200 in 7.4943 ms
+2025-08-21 13:34:27.388 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:27.505 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:27.535 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:27.540 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:27.544 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:27.548 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:27.558 +03:00 [INF] GET /api/market/top -> 200 in 170 ms
+2025-08-21 13:34:27.566 +03:00 [INF] HTTP GET /api/market/top responded 200 in 178.3219 ms
+2025-08-21 13:34:28.424 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:28.430 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.1905 ms
+2025-08-21 13:34:28.449 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:28.571 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:28.578 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:28.582 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:28.586 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:28.591 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:28.595 +03:00 [INF] GET /api/market/top -> 200 in 146 ms
+2025-08-21 13:34:28.602 +03:00 [INF] HTTP GET /api/market/top responded 200 in 153.4023 ms
+2025-08-21 13:34:29.197 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:29.203 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.2578 ms
+2025-08-21 13:34:29.248 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:29.398 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:29.405 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:29.409 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:29.413 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:29.418 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:29.422 +03:00 [INF] GET /api/market/top -> 200 in 174 ms
+2025-08-21 13:34:29.429 +03:00 [INF] HTTP GET /api/market/top responded 200 in 180.4089 ms
+2025-08-21 13:34:29.960 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:29.966 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.6281 ms
+2025-08-21 13:34:29.984 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:30.088 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:30.095 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:30.101 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:30.105 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:30.108 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:30.113 +03:00 [INF] GET /api/market/top -> 200 in 128 ms
+2025-08-21 13:34:30.119 +03:00 [INF] HTTP GET /api/market/top responded 200 in 134.7334 ms
+2025-08-21 13:34:30.730 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:30.736 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.1736 ms
+2025-08-21 13:34:30.765 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:31.203 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:31.211 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:31.216 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:31.222 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:31.227 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:31.233 +03:00 [INF] GET /api/market/top -> 200 in 468 ms
+2025-08-21 13:34:31.240 +03:00 [INF] HTTP GET /api/market/top responded 200 in 475.7065 ms
+2025-08-21 13:34:31.608 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:31.614 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.2358 ms
+2025-08-21 13:34:31.647 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:31.964 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:31.971 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:31.977 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:31.981 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:31.986 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:31.991 +03:00 [INF] GET /api/market/top -> 200 in 343 ms
+2025-08-21 13:34:31.998 +03:00 [INF] HTTP GET /api/market/top responded 200 in 350.8595 ms
+2025-08-21 13:34:32.394 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:32.399 +03:00 [INF] HTTP GET /dashboard responded 200 in 5.6181 ms
+2025-08-21 13:34:32.430 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:32.528 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:32.536 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:32.540 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:32.544 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:32.549 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:32.555 +03:00 [INF] GET /api/market/top -> 200 in 125 ms
+2025-08-21 13:34:32.561 +03:00 [INF] HTTP GET /api/market/top responded 200 in 131.1726 ms
+2025-08-21 13:34:33.137 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:33.142 +03:00 [INF] HTTP GET /dashboard responded 200 in 5.5068 ms
+2025-08-21 13:34:33.175 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:33.447 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:33.455 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:33.460 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:33.465 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:33.469 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:33.473 +03:00 [INF] GET /api/market/top -> 200 in 298 ms
+2025-08-21 13:34:33.479 +03:00 [INF] HTTP GET /api/market/top responded 200 in 304.3260 ms
+2025-08-21 13:34:33.890 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:33.896 +03:00 [INF] HTTP GET /dashboard responded 200 in 6.7288 ms
+2025-08-21 13:34:33.933 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:34.025 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:34.032 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:34.037 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:34.042 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:34.047 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:34.051 +03:00 [INF] GET /api/market/top -> 200 in 118 ms
+2025-08-21 13:34:34.058 +03:00 [INF] HTTP GET /api/market/top responded 200 in 125.1593 ms
+2025-08-21 13:34:34.628 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:34:34.633 +03:00 [INF] HTTP GET /dashboard responded 200 in 5.5914 ms
+2025-08-21 13:34:34.663 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:34.857 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:34.864 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:34.868 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:34.872 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:34.877 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:34.881 +03:00 [INF] GET /api/market/top -> 200 in 218 ms
+2025-08-21 13:34:34.887 +03:00 [INF] HTTP GET /api/market/top responded 200 in 223.7163 ms
+2025-08-21 13:34:40.608 +03:00 [INF] GET /swagger -> 301 in 0 ms
+2025-08-21 13:34:40.614 +03:00 [INF] HTTP GET /swagger responded 301 in 6.3132 ms
+2025-08-21 13:34:40.627 +03:00 [INF] GET /swagger/index.html -> 200 in 0 ms
+2025-08-21 13:34:40.633 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 7.0382 ms
+2025-08-21 13:34:40.887 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 32 ms
+2025-08-21 13:34:40.894 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 39.1599 ms
+2025-08-21 13:34:45.825 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:34:45.914 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(String[] symbols) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 64
+2025-08-21 13:34:45.922 +03:00 [WRN] Using fallback price for BTC: $62000
+2025-08-21 13:34:45.927 +03:00 [WRN] Using fallback price for ETH: $2600
+2025-08-21 13:34:45.933 +03:00 [WRN] Using fallback price for SOL: $150
+2025-08-21 13:34:45.939 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 13:34:45.945 +03:00 [INF] GET /api/market/top -> 200 in 120 ms
+2025-08-21 13:34:45.953 +03:00 [INF] HTTP GET /api/market/top responded 200 in 128.0895 ms
+2025-08-21 13:38:35.597 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 13:38:35.604 +03:00 [INF] HTTP GET /dashboard responded 200 in 7.2926 ms
+2025-08-21 13:38:35.655 +03:00 [DBG] Fetching top prices from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd
+2025-08-21 13:38:36.134 +03:00 [INF] Fetched 4 real prices
+2025-08-21 13:38:36.139 +03:00 [INF] GET /api/market/top -> 200 in 485 ms
+2025-08-21 13:38:36.145 +03:00 [INF] HTTP GET /api/market/top responded 200 in 492.0736 ms
+2025-08-21 13:41:03.467 +03:00 [DBG] Fetching price for BTC from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 13:41:03.691 +03:00 [INF] Real price for BTC: $113364
+2025-08-21 13:41:03.697 +03:00 [INF] GET /api/market/quote/BTC -> 200 in 230 ms
+2025-08-21 13:41:03.705 +03:00 [INF] HTTP GET /api/market/quote/BTC responded 200 in 238.8342 ms
+2025-08-21 14:00:10.092 +03:00 [INF] Seeded demo data
+2025-08-21 14:00:10.301 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:00:11.208 +03:00 [INF] GET /swagger -> 301 in 75 ms
+2025-08-21 14:00:11.242 +03:00 [INF] HTTP GET /swagger responded 301 in 111.2916 ms
+2025-08-21 14:00:11.481 +03:00 [INF] GET /swagger/index.html -> 200 in 177 ms
+2025-08-21 14:00:11.489 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 185.7040 ms
+2025-08-21 14:00:11.581 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 32 ms
+2025-08-21 14:00:11.581 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 27 ms
+2025-08-21 14:00:11.587 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 38.7751 ms
+2025-08-21 14:00:11.588 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 39 ms
+2025-08-21 14:00:11.593 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 39.8099 ms
+2025-08-21 14:00:11.604 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 56.1450 ms
+2025-08-21 14:00:12.045 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 216 ms
+2025-08-21 14:00:12.050 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 221.0728 ms
+2025-08-21 14:00:16.628 +03:00 [DBG] Fetching top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:00:17.801 +03:00 [ERR] Error fetching top market coins
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(Int32 count) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 61
+2025-08-21 14:00:17.859 +03:00 [INF] GET /api/market/top -> 200 in 1246 ms
+2025-08-21 14:00:17.866 +03:00 [INF] HTTP GET /api/market/top responded 200 in 1253.8552 ms
+2025-08-21 14:02:20.780 +03:00 [INF] Seeded demo data
+2025-08-21 14:02:21.014 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:02:21.844 +03:00 [INF] GET /swagger -> 301 in 76 ms
+2025-08-21 14:02:21.876 +03:00 [INF] HTTP GET /swagger responded 301 in 113.5079 ms
+2025-08-21 14:02:22.161 +03:00 [INF] GET /swagger/index.html -> 200 in 229 ms
+2025-08-21 14:02:22.169 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 237.9967 ms
+2025-08-21 14:02:22.286 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 44 ms
+2025-08-21 14:02:22.286 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 43 ms
+2025-08-21 14:02:22.292 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 50 ms
+2025-08-21 14:02:22.293 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 51.5934 ms
+2025-08-21 14:02:22.299 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 56.6807 ms
+2025-08-21 14:02:22.305 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 63.3296 ms
+2025-08-21 14:02:23.035 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 360 ms
+2025-08-21 14:02:23.041 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 367.0328 ms
+2025-08-21 14:02:27.733 +03:00 [DBG] Fetching top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:02:28.718 +03:00 [ERR] Error fetching top market coins
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(Int32 count) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 61
+2025-08-21 14:02:28.777 +03:00 [INF] GET /api/market/top -> 200 in 1060 ms
+2025-08-21 14:02:28.785 +03:00 [INF] HTTP GET /api/market/top responded 200 in 1069.0605 ms
+2025-08-21 14:03:19.856 +03:00 [INF] Seeded demo data
+2025-08-21 14:03:20.071 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:03:20.907 +03:00 [INF] GET /swagger -> 301 in 73 ms
+2025-08-21 14:03:20.935 +03:00 [INF] HTTP GET /swagger responded 301 in 108.9727 ms
+2025-08-21 14:03:21.134 +03:00 [INF] GET /swagger/index.html -> 200 in 168 ms
+2025-08-21 14:03:21.142 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 176.8500 ms
+2025-08-21 14:03:21.203 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 36 ms
+2025-08-21 14:03:21.203 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 36 ms
+2025-08-21 14:03:21.209 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 43 ms
+2025-08-21 14:03:21.209 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 43.1563 ms
+2025-08-21 14:03:21.214 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 48.1993 ms
+2025-08-21 14:03:21.220 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 53.6792 ms
+2025-08-21 14:03:21.797 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 262 ms
+2025-08-21 14:03:21.802 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 266.8321 ms
+2025-08-21 14:03:25.317 +03:00 [DBG] Fetching top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:03:26.175 +03:00 [ERR] Error fetching top market coins
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(Int32 count) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 61
+2025-08-21 14:03:26.212 +03:00 [INF] GET /api/market/top -> 200 in 908 ms
+2025-08-21 14:03:26.216 +03:00 [INF] HTTP GET /api/market/top responded 200 in 912.1400 ms
+2025-08-21 14:05:15.701 +03:00 [INF] Seeded demo data
+2025-08-21 14:05:15.888 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:05:16.919 +03:00 [INF] GET /swagger -> 301 in 59 ms
+2025-08-21 14:05:16.936 +03:00 [INF] HTTP GET /swagger responded 301 in 81.3696 ms
+2025-08-21 14:05:17.189 +03:00 [INF] GET /swagger/index.html -> 200 in 220 ms
+2025-08-21 14:05:17.198 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 229.2552 ms
+2025-08-21 14:05:17.333 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 56 ms
+2025-08-21 14:05:17.333 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 50 ms
+2025-08-21 14:05:17.339 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 63.5705 ms
+2025-08-21 14:05:17.340 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 57 ms
+2025-08-21 14:05:17.346 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 63.4060 ms
+2025-08-21 14:05:17.359 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 76.6173 ms
+2025-08-21 14:05:17.904 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 233 ms
+2025-08-21 14:05:17.909 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 238.4940 ms
+2025-08-21 14:05:37.486 +03:00 [DBG] Fetching top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:05:39.653 +03:00 [ERR] Error fetching top market coins
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(Int32 count) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 61
+2025-08-21 14:05:39.708 +03:00 [INF] GET /api/market/top -> 200 in 2242 ms
+2025-08-21 14:05:39.717 +03:00 [INF] HTTP GET /api/market/top responded 200 in 2252.4515 ms
+2025-08-21 14:06:26.356 +03:00 [INF] Seeded demo data
+2025-08-21 14:06:26.589 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:06:27.352 +03:00 [INF] GET /swagger -> 301 in 67 ms
+2025-08-21 14:06:27.374 +03:00 [INF] HTTP GET /swagger responded 301 in 95.9789 ms
+2025-08-21 14:06:27.602 +03:00 [INF] GET /swagger/index.html -> 200 in 163 ms
+2025-08-21 14:06:27.611 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 172.2995 ms
+2025-08-21 14:06:27.717 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 37 ms
+2025-08-21 14:06:27.717 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 37 ms
+2025-08-21 14:06:27.723 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 43 ms
+2025-08-21 14:06:27.726 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 46.4588 ms
+2025-08-21 14:06:27.732 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 51.9412 ms
+2025-08-21 14:06:27.737 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 57.6104 ms
+2025-08-21 14:06:28.351 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 305 ms
+2025-08-21 14:06:28.358 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 311.5081 ms
+2025-08-21 14:06:34.777 +03:00 [DBG] Fetching top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:06:38.006 +03:00 [ERR] Error fetching top prices
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(Int32 count) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 61
+2025-08-21 14:06:38.063 +03:00 [INF] GET /api/market/top -> 200 in 3302 ms
+2025-08-21 14:06:38.070 +03:00 [INF] HTTP GET /api/market/top responded 200 in 3310.6307 ms
+2025-08-21 14:08:27.039 +03:00 [INF] Seeded demo data
+2025-08-21 14:08:27.243 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:08:28.136 +03:00 [INF] GET /swagger -> 301 in 62 ms
+2025-08-21 14:08:28.157 +03:00 [INF] HTTP GET /swagger responded 301 in 86.4909 ms
+2025-08-21 14:08:28.355 +03:00 [INF] GET /swagger/index.html -> 200 in 154 ms
+2025-08-21 14:08:28.363 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 162.4643 ms
+2025-08-21 14:08:28.425 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 34 ms
+2025-08-21 14:08:28.425 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 34 ms
+2025-08-21 14:08:28.431 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 40.9192 ms
+2025-08-21 14:08:28.433 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 43 ms
+2025-08-21 14:08:28.436 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 46.3305 ms
+2025-08-21 14:08:28.447 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 57.3331 ms
+2025-08-21 14:08:29.044 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 279 ms
+2025-08-21 14:08:29.051 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 287.4805 ms
+2025-08-21 14:08:34.973 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:08:35.957 +03:00 [ERR] Exception during GetTopAsync
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetTopAsync(Int32 count) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 63
+2025-08-21 14:08:36.014 +03:00 [INF] GET /api/market/top -> 200 in 1057 ms
+2025-08-21 14:08:36.022 +03:00 [INF] HTTP GET /api/market/top responded 200 in 1066.5521 ms
+2025-08-21 14:13:08.499 +03:00 [INF] Seeded demo data
+2025-08-21 14:13:08.716 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:13:09.529 +03:00 [INF] GET /swagger -> 301 in 71 ms
+2025-08-21 14:13:09.550 +03:00 [INF] HTTP GET /swagger responded 301 in 96.9605 ms
+2025-08-21 14:13:09.754 +03:00 [INF] GET /swagger/index.html -> 200 in 172 ms
+2025-08-21 14:13:09.761 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 180.6726 ms
+2025-08-21 14:13:09.862 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 40 ms
+2025-08-21 14:13:09.862 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 34 ms
+2025-08-21 14:13:09.869 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 47.6569 ms
+2025-08-21 14:13:09.872 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 46 ms
+2025-08-21 14:13:09.876 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 47.8587 ms
+2025-08-21 14:13:09.892 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 65.9263 ms
+2025-08-21 14:13:10.452 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 284 ms
+2025-08-21 14:13:10.458 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 290.2425 ms
+2025-08-21 14:13:17.006 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:13:19.040 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 14:13:19.091 +03:00 [INF] GET /api/market/top -> 200 in 2102 ms
+2025-08-21 14:13:19.098 +03:00 [INF] HTTP GET /api/market/top responded 200 in 2110.3253 ms
+2025-08-21 14:13:34.552 +03:00 [INF] GET /dashboard -> 200 in 6 ms
+2025-08-21 14:13:34.559 +03:00 [INF] HTTP GET /dashboard responded 200 in 12.8241 ms
+2025-08-21 14:13:34.601 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:13:35.308 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 14:13:35.318 +03:00 [INF] GET /api/market/top -> 200 in 717 ms
+2025-08-21 14:13:35.324 +03:00 [INF] HTTP GET /api/market/top responded 200 in 724.2393 ms
+2025-08-21 14:13:39.829 +03:00 [DBG] Fetching price for WBETH from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=wbeth&vs_currencies=usd
+2025-08-21 14:13:40.334 +03:00 [WRN] No price data found for WBETH
+2025-08-21 14:13:40.342 +03:00 [WRN] Using fallback price for WBETH: $100
+2025-08-21 14:13:40.349 +03:00 [INF] GET /api/market/quote/WBETH -> 200 in 523 ms
+2025-08-21 14:13:40.357 +03:00 [INF] HTTP GET /api/market/quote/WBETH responded 200 in 531.2598 ms
+2025-08-21 14:13:53.200 +03:00 [DBG] Fetching price for BTC from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 14:13:54.320 +03:00 [INF] Real price for BTC: $113487
+2025-08-21 14:13:54.325 +03:00 [INF] GET /api/market/quote/BTC -> 200 in 1124 ms
+2025-08-21 14:13:54.330 +03:00 [INF] HTTP GET /api/market/quote/BTC responded 200 in 1130.1894 ms
+2025-08-21 14:14:06.306 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:07.130 +03:00 [INF] Real price for USDE: $0.00002742
+2025-08-21 14:14:07.135 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 828 ms
+2025-08-21 14:14:07.141 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 834.7873 ms
+2025-08-21 14:14:11.689 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:11.972 +03:00 [INF] Real price for USDE: $0.00002742
+2025-08-21 14:14:11.979 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 289 ms
+2025-08-21 14:14:11.986 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 296.9784 ms
+2025-08-21 14:14:13.448 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:13.656 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:13.675 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:13.681 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 233 ms
+2025-08-21 14:14:13.687 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 240.1771 ms
+2025-08-21 14:14:13.985 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:14.181 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:14.190 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:14.196 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 211 ms
+2025-08-21 14:14:14.203 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 218.5923 ms
+2025-08-21 14:14:15.022 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:15.326 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:15.335 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:15.339 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 316 ms
+2025-08-21 14:14:15.340 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:15.345 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 322.8575 ms
+2025-08-21 14:14:15.923 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:15.932 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:15.936 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 595 ms
+2025-08-21 14:14:15.938 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:15.942 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 601.8809 ms
+2025-08-21 14:14:16.121 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:16.128 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:16.134 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 196 ms
+2025-08-21 14:14:16.136 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:16.140 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 202.4809 ms
+2025-08-21 14:14:16.940 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:16.948 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:16.955 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 818 ms
+2025-08-21 14:14:16.956 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:16.961 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 824.9686 ms
+2025-08-21 14:14:17.404 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:17.412 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:17.418 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 461 ms
+2025-08-21 14:14:17.420 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:17.426 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 469.2906 ms
+2025-08-21 14:14:17.668 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:17.677 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:17.681 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 261 ms
+2025-08-21 14:14:17.683 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:17.688 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 268.3618 ms
+2025-08-21 14:14:17.969 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:17.980 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:17.986 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 303 ms
+2025-08-21 14:14:17.988 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:17.993 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 310.1587 ms
+2025-08-21 14:14:18.212 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:18.219 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:18.223 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 235 ms
+2025-08-21 14:14:18.226 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:18.230 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 242.4591 ms
+2025-08-21 14:14:18.869 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:18.877 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:18.882 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 656 ms
+2025-08-21 14:14:18.884 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:18.888 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 662.4679 ms
+2025-08-21 14:14:19.405 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:19.412 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:19.416 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 532 ms
+2025-08-21 14:14:19.419 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usde&vs_currencies=usd
+2025-08-21 14:14:19.422 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 538.2024 ms
+2025-08-21 14:14:20.728 +03:00 [ERR] Error fetching price for USDE
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:20.738 +03:00 [WRN] Using fallback price for USDE: $100
+2025-08-21 14:14:20.745 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 1326 ms
+2025-08-21 14:14:20.752 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 1333.8425 ms
+2025-08-21 14:14:34.498 +03:00 [DBG] Fetching price for SUI from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=sui&vs_currencies=usd
+2025-08-21 14:14:34.649 +03:00 [ERR] Error fetching price for SUI
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:34.657 +03:00 [WRN] Using fallback price for SUI: $100
+2025-08-21 14:14:34.662 +03:00 [INF] GET /api/market/quote/SUI -> 200 in 164 ms
+2025-08-21 14:14:34.669 +03:00 [INF] HTTP GET /api/market/quote/SUI responded 200 in 171.2026 ms
+2025-08-21 14:14:38.749 +03:00 [DBG] Fetching price for SUI from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=sui&vs_currencies=usd
+2025-08-21 14:14:38.926 +03:00 [ERR] Error fetching price for SUI
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:38.932 +03:00 [WRN] Using fallback price for SUI: $100
+2025-08-21 14:14:38.936 +03:00 [INF] GET /api/market/quote/SUI -> 200 in 187 ms
+2025-08-21 14:14:38.943 +03:00 [INF] HTTP GET /api/market/quote/SUI responded 200 in 193.8313 ms
+2025-08-21 14:14:44.056 +03:00 [DBG] Fetching price for XRP from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=ripple&vs_currencies=usd
+2025-08-21 14:14:44.538 +03:00 [ERR] Error fetching price for XRP
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:44.547 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 14:14:44.552 +03:00 [INF] GET /api/market/quote/XRP -> 200 in 496 ms
+2025-08-21 14:14:44.559 +03:00 [INF] HTTP GET /api/market/quote/XRP responded 200 in 502.9527 ms
+2025-08-21 14:14:49.621 +03:00 [DBG] Fetching price for XRP from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=ripple&vs_currencies=usd
+2025-08-21 14:14:50.381 +03:00 [ERR] Error fetching price for XRP
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:50.390 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 14:14:50.396 +03:00 [INF] GET /api/market/quote/XRP -> 200 in 775 ms
+2025-08-21 14:14:50.404 +03:00 [INF] HTTP GET /api/market/quote/XRP responded 200 in 783.7982 ms
+2025-08-21 14:14:53.605 +03:00 [DBG] Fetching price for XRP from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=ripple&vs_currencies=usd
+2025-08-21 14:14:53.873 +03:00 [ERR] Error fetching price for XRP
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:53.880 +03:00 [WRN] Using fallback price for XRP: $0.60
+2025-08-21 14:14:53.885 +03:00 [INF] GET /api/market/quote/XRP -> 200 in 279 ms
+2025-08-21 14:14:53.891 +03:00 [INF] HTTP GET /api/market/quote/XRP responded 200 in 285.9106 ms
+2025-08-21 14:14:59.686 +03:00 [DBG] Fetching price for USDT from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=usdt&vs_currencies=usd
+2025-08-21 14:14:59.866 +03:00 [ERR] Error fetching price for USDT
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Watch_API.Services.MarketService.GetQuoteAsync(String symbol) in C:\Users\ivan\RiderProjects\Watch API\Watch API\Services\MarketService.cs:line 26
+2025-08-21 14:14:59.874 +03:00 [WRN] Using fallback price for USDT: $100
+2025-08-21 14:14:59.879 +03:00 [INF] GET /api/market/quote/USDT -> 200 in 193 ms
+2025-08-21 14:14:59.885 +03:00 [INF] HTTP GET /api/market/quote/USDT responded 200 in 199.1005 ms
+2025-08-21 14:20:03.654 +03:00 [INF] Seeded demo data
+2025-08-21 14:20:03.846 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:20:04.663 +03:00 [INF] GET /swagger -> 301 in 63 ms
+2025-08-21 14:20:04.681 +03:00 [INF] HTTP GET /swagger responded 301 in 86.5885 ms
+2025-08-21 14:20:04.868 +03:00 [INF] GET /swagger/index.html -> 200 in 161 ms
+2025-08-21 14:20:04.876 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 169.6116 ms
+2025-08-21 14:20:04.948 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 44 ms
+2025-08-21 14:20:04.948 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 44 ms
+2025-08-21 14:20:04.956 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 52.8247 ms
+2025-08-21 14:20:04.960 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 56 ms
+2025-08-21 14:20:04.963 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 60.0723 ms
+2025-08-21 14:20:04.976 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 73.0288 ms
+2025-08-21 14:20:05.543 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 306 ms
+2025-08-21 14:20:05.548 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 312.1719 ms
+2025-08-21 14:20:11.556 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:20:12.302 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 14:20:12.352 +03:00 [INF] GET /api/market/top -> 200 in 817 ms
+2025-08-21 14:20:12.360 +03:00 [INF] HTTP GET /api/market/top responded 200 in 825.4476 ms
+2025-08-21 14:20:27.035 +03:00 [INF] GET /dashboard -> 200 in 3 ms
+2025-08-21 14:20:27.041 +03:00 [INF] HTTP GET /dashboard responded 200 in 9.2151 ms
+2025-08-21 14:20:27.093 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 14:20:27.316 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 14:20:27.325 +03:00 [INF] GET /api/market/top -> 200 in 233 ms
+2025-08-21 14:20:27.331 +03:00 [INF] HTTP GET /api/market/top responded 200 in 239.2802 ms
+2025-08-21 14:31:38.629 +03:00 [INF] GET /swagger -> 301 in 0 ms
+2025-08-21 14:31:38.636 +03:00 [INF] HTTP GET /swagger responded 301 in 8.1352 ms
+2025-08-21 14:31:38.653 +03:00 [INF] GET /swagger/index.html -> 200 in 1 ms
+2025-08-21 14:31:38.661 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 9.8489 ms
+2025-08-21 14:31:38.720 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 7 ms
+2025-08-21 14:31:38.722 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 6 ms
+2025-08-21 14:31:38.732 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 18.5372 ms
+2025-08-21 14:31:38.734 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 19 ms
+2025-08-21 14:31:38.739 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 23.5103 ms
+2025-08-21 14:31:38.752 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 37.3770 ms
+2025-08-21 14:31:39.062 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 33 ms
+2025-08-21 14:31:39.068 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 39.0207 ms
+2025-08-21 14:31:44.241 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 32 ms
+2025-08-21 14:31:44.247 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 38.3032 ms
+2025-08-21 14:32:04.915 +03:00 [INF] GET /dashboard -> 200 in 0 ms
+2025-08-21 14:32:04.922 +03:00 [INF] HTTP GET /dashboard responded 200 in 7.3534 ms
+2025-08-21 14:32:28.868 +03:00 [INF] GET /api/Assets -> 200 in 71 ms
+2025-08-21 14:32:28.873 +03:00 [INF] HTTP GET /api/Assets responded 200 in 76.5907 ms
+2025-08-21 14:52:55.032 +03:00 [INF] Seeded demo data
+2025-08-21 14:52:55.212 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 14:52:56.163 +03:00 [INF] GET /swagger -> 301 in 54 ms
+2025-08-21 14:52:56.186 +03:00 [INF] HTTP GET /swagger responded 301 in 81.5459 ms
+2025-08-21 14:52:56.390 +03:00 [INF] GET /swagger/index.html -> 200 in 182 ms
+2025-08-21 14:52:56.397 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 189.7148 ms
+2025-08-21 14:52:56.452 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 33 ms
+2025-08-21 14:52:56.452 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 34 ms
+2025-08-21 14:52:56.458 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 39 ms
+2025-08-21 14:52:56.459 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 40.3354 ms
+2025-08-21 14:52:56.464 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 46.0510 ms
+2025-08-21 14:52:56.469 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 50.7326 ms
+2025-08-21 14:52:57.024 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 299 ms
+2025-08-21 14:52:57.029 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 304.7175 ms
+2025-08-21 14:53:15.932 +03:00 [INF] GET /api/Assets -> 200 in 62 ms
+2025-08-21 14:53:15.936 +03:00 [INF] HTTP GET /api/Assets responded 200 in 65.4671 ms
+2025-08-21 14:53:49.964 +03:00 [INF] GET /api/Portfolios -> 200 in 18 ms
+2025-08-21 14:53:49.967 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 21.4617 ms
+2025-08-21 16:27:19.005 +03:00 [INF] Seeded demo data
+2025-08-21 16:27:19.347 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 16:27:19.941 +03:00 [INF] GET /swagger -> 301 in 81 ms
+2025-08-21 16:27:19.974 +03:00 [INF] HTTP GET /swagger responded 301 in 117.0080 ms
+2025-08-21 16:27:20.166 +03:00 [INF] GET /swagger/index.html -> 200 in 164 ms
+2025-08-21 16:27:20.173 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 172.0247 ms
+2025-08-21 16:27:20.227 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 39 ms
+2025-08-21 16:27:20.227 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 30 ms
+2025-08-21 16:27:20.234 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 45.9676 ms
+2025-08-21 16:27:20.239 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 42.2692 ms
+2025-08-21 16:27:20.264 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 68 ms
+2025-08-21 16:27:20.270 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 74.2227 ms
+2025-08-21 16:27:21.028 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 325 ms
+2025-08-21 16:27:21.033 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 331.2668 ms
+2025-08-21 16:27:27.162 +03:00 [INF] GET /api/Portfolios -> 200 in 98 ms
+2025-08-21 16:27:27.168 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 103.9467 ms
+2025-08-21 16:27:29.201 +03:00 [INF] GET /api/Portfolios -> 200 in 2 ms
+2025-08-21 16:27:29.207 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 8.1706 ms
+2025-08-21 16:27:59.519 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 16:28:00.032 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 16:28:00.072 +03:00 [INF] GET /api/market/top -> 200 in 578 ms
+2025-08-21 16:28:00.080 +03:00 [INF] HTTP GET /api/market/top responded 200 in 585.7392 ms
+2025-08-21 16:28:30.967 +03:00 [INF] GET /api/Assets -> 200 in 21 ms
+2025-08-21 16:28:30.974 +03:00 [INF] HTTP GET /api/Assets responded 200 in 28.4942 ms
+2025-08-21 16:28:53.592 +03:00 [INF] PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/7d8d792e-2756-4c04-b19a-fa766ac2479c -> 404 in 62 ms
+2025-08-21 16:28:53.599 +03:00 [INF] HTTP PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/7d8d792e-2756-4c04-b19a-fa766ac2479c responded 404 in 69.8470 ms
+2025-08-21 16:29:40.495 +03:00 [INF] PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 -> 404 in 1 ms
+2025-08-21 16:29:40.501 +03:00 [INF] HTTP PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 responded 404 in 7.9167 ms
+2025-08-21 16:29:54.748 +03:00 [INF] GET /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504 -> 200 in 23 ms
+2025-08-21 16:29:54.755 +03:00 [INF] HTTP GET /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504 responded 200 in 30.8033 ms
+2025-08-21 16:30:18.823 +03:00 [INF] PUT /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 -> 404 in 0 ms
+2025-08-21 16:30:18.829 +03:00 [INF] HTTP PUT /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 responded 404 in 6.7501 ms
+2025-08-21 16:30:40.508 +03:00 [INF] PUT /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 -> 404 in 0 ms
+2025-08-21 16:30:40.520 +03:00 [INF] HTTP PUT /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 responded 404 in 12.4412 ms
+2025-08-21 16:31:04.490 +03:00 [INF] DELETE /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 -> 404 in 9 ms
+2025-08-21 16:31:04.496 +03:00 [INF] HTTP DELETE /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 responded 404 in 15.5605 ms
+2025-08-21 16:31:32.894 +03:00 [INF] PUT /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 -> 404 in 0 ms
+2025-08-21 16:31:32.906 +03:00 [INF] HTTP PUT /api/Portfolios/7d8d792e-2756-4c04-b19a-fa766ac2479c/holdings/038ad46a-7691-491f-83a9-12ea86ba9e34 responded 404 in 12.9573 ms
+2025-08-21 16:31:35.278 +03:00 [INF] GET /swagger/index.html -> 200 in 1 ms
+2025-08-21 16:31:35.284 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 6.8957 ms
+2025-08-21 16:31:35.314 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 1 ms
+2025-08-21 16:31:35.321 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 8.7361 ms
+2025-08-21 16:31:35.327 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 3 ms
+2025-08-21 16:31:35.336 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 13 ms
+2025-08-21 16:31:35.340 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 17.0524 ms
+2025-08-21 16:31:35.346 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 23.1404 ms
+2025-08-21 16:31:35.619 +03:00 [INF] GET /swagger/favicon-32x32.png -> 200 in 0 ms
+2025-08-21 16:31:35.624 +03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 6.2825 ms
+2025-08-21 16:31:35.649 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 32 ms
+2025-08-21 16:31:35.656 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 38.8248 ms
+2025-08-21 16:31:47.818 +03:00 [INF] GET /api/Assets -> 200 in 1 ms
+2025-08-21 16:31:47.821 +03:00 [INF] HTTP GET /api/Assets responded 200 in 4.5910 ms
+2025-08-21 16:32:19.503 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 16:32:19.510 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 7.9337 ms
+2025-08-21 16:32:31.258 +03:00 [INF] POST /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings -> 201 in 48 ms
+2025-08-21 16:32:31.264 +03:00 [INF] HTTP POST /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings responded 201 in 55.3260 ms
+2025-08-21 16:32:52.248 +03:00 [INF] GET /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504 -> 200 in 0 ms
+2025-08-21 16:32:52.255 +03:00 [INF] HTTP GET /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504 responded 200 in 7.6747 ms
+2025-08-21 16:33:51.546 +03:00 [INF] PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/b17ce388-51d1-4982-aa10-76b4d10e692a -> 204 in 0 ms
+2025-08-21 16:33:51.552 +03:00 [INF] HTTP PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/b17ce388-51d1-4982-aa10-76b4d10e692a responded 204 in 6.8537 ms
+2025-08-21 16:33:56.522 +03:00 [INF] PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/b17ce388-51d1-4982-aa10-76b4d10e692a -> 204 in 0 ms
+2025-08-21 16:33:56.528 +03:00 [INF] HTTP PUT /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504/holdings/b17ce388-51d1-4982-aa10-76b4d10e692a responded 204 in 6.7741 ms
+2025-08-21 16:34:06.490 +03:00 [INF] GET /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504 -> 200 in 0 ms
+2025-08-21 16:34:06.496 +03:00 [INF] HTTP GET /api/Portfolios/b43cf219-ef45-44c8-b30e-546905e33504 responded 200 in 6.9166 ms
+2025-08-21 16:35:39.718 +03:00 [INF] Seeded demo data
+2025-08-21 16:35:39.902 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 16:35:40.751 +03:00 [INF] GET /swagger -> 301 in 58 ms
+2025-08-21 16:35:40.772 +03:00 [INF] HTTP GET /swagger responded 301 in 81.7491 ms
+2025-08-21 16:35:41.065 +03:00 [INF] GET /swagger/index.html -> 200 in 211 ms
+2025-08-21 16:35:41.073 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 219.5928 ms
+2025-08-21 16:35:41.142 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 34 ms
+2025-08-21 16:35:41.142 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 34 ms
+2025-08-21 16:35:41.151 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 42.5174 ms
+2025-08-21 16:35:41.155 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 46 ms
+2025-08-21 16:35:41.156 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 48.3074 ms
+2025-08-21 16:35:41.168 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 59.8185 ms
+2025-08-21 16:35:41.713 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 301 ms
+2025-08-21 16:35:41.718 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 307.0122 ms
+2025-08-21 16:35:49.112 +03:00 [INF] GET /api/Portfolios -> 200 in 90 ms
+2025-08-21 16:35:49.120 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 98.2838 ms
+2025-08-21 16:36:38.644 +03:00 [DBG] Fetching price for btc from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 16:36:38.979 +03:00 [INF] Real price for btc: $113261
+2025-08-21 16:36:39.011 +03:00 [INF] GET /api/market/quote/btc -> 200 in 378 ms
+2025-08-21 16:36:39.019 +03:00 [INF] HTTP GET /api/market/quote/btc responded 200 in 386.9155 ms
+2025-08-21 16:36:55.251 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 16:36:55.460 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 16:36:55.467 +03:00 [INF] GET /api/market/top -> 200 in 221 ms
+2025-08-21 16:36:55.474 +03:00 [INF] HTTP GET /api/market/top responded 200 in 227.6257 ms
+2025-08-21 16:37:05.051 +03:00 [DBG] Fetching price for btc from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 16:37:05.149 +03:00 [INF] Real price for btc: $113261
+2025-08-21 16:37:05.156 +03:00 [INF] GET /api/market/quote/btc -> 200 in 106 ms
+2025-08-21 16:37:05.164 +03:00 [INF] HTTP GET /api/market/quote/btc responded 200 in 113.7964 ms
+2025-08-21 16:37:22.404 +03:00 [DBG] Fetching price for WEETH from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=weeth&vs_currencies=usd
+2025-08-21 16:37:22.642 +03:00 [WRN] No price data found for WEETH
+2025-08-21 16:37:22.648 +03:00 [WRN] Using fallback price for WEETH: $100
+2025-08-21 16:37:22.653 +03:00 [INF] GET /api/market/quote/WEETH -> 200 in 249 ms
+2025-08-21 16:37:22.659 +03:00 [INF] HTTP GET /api/market/quote/WEETH responded 200 in 255.2542 ms
+2025-08-21 16:38:50.258 +03:00 [DBG] Fetching price for WEETH from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=weeth&vs_currencies=usd
+2025-08-21 16:38:50.573 +03:00 [WRN] No price data found for WEETH
+2025-08-21 16:38:50.577 +03:00 [WRN] Using fallback price for WEETH: $100
+2025-08-21 16:38:50.581 +03:00 [INF] GET /api/market/quote/WEETH -> 200 in 324 ms
+2025-08-21 16:38:50.586 +03:00 [INF] HTTP GET /api/market/quote/WEETH responded 200 in 329.4714 ms
+2025-08-21 17:10:15.238 +03:00 [INF] Seeded demo data
+2025-08-21 17:10:15.416 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 17:10:16.573 +03:00 [INF] GET /swagger -> 301 in 62 ms
+2025-08-21 17:10:16.594 +03:00 [INF] HTTP GET /swagger responded 301 in 90.4334 ms
+2025-08-21 17:10:16.778 +03:00 [INF] GET /swagger/index.html -> 200 in 146 ms
+2025-08-21 17:10:16.786 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 154.8247 ms
+2025-08-21 17:10:16.845 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 34 ms
+2025-08-21 17:10:16.845 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 33 ms
+2025-08-21 17:10:16.851 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 40 ms
+2025-08-21 17:10:16.852 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 41.7581 ms
+2025-08-21 17:10:16.857 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 46.1507 ms
+2025-08-21 17:10:16.862 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 51.3207 ms
+2025-08-21 17:10:17.457 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 275 ms
+2025-08-21 17:10:17.462 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 280.5432 ms
+2025-08-21 17:10:25.958 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 17:10:26.391 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 17:10:26.440 +03:00 [INF] GET /api/market/top -> 200 in 497 ms
+2025-08-21 17:10:26.448 +03:00 [INF] HTTP GET /api/market/top responded 200 in 505.9938 ms
+2025-08-21 17:10:43.586 +03:00 [DBG] Found CoinGecko ID 'bitcoin' for symbol 'btc'
+2025-08-21 17:10:43.594 +03:00 [DBG] Fetching price for btc from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd
+2025-08-21 17:10:43.683 +03:00 [INF] Real price for btc: $113707
+2025-08-21 17:10:43.691 +03:00 [INF] GET /api/market/quote/btc -> 200 in 164 ms
+2025-08-21 17:10:43.700 +03:00 [INF] HTTP GET /api/market/quote/btc responded 200 in 173.9116 ms
+2025-08-21 17:10:58.840 +03:00 [DBG] Found CoinGecko ID 'sui' for symbol 'SUI'
+2025-08-21 17:10:58.846 +03:00 [DBG] Fetching price for SUI from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=sui&vs_currencies=usd
+2025-08-21 17:10:59.044 +03:00 [INF] Real price for SUI: $3.45
+2025-08-21 17:10:59.050 +03:00 [INF] GET /api/market/quote/SUI -> 200 in 460 ms
+2025-08-21 17:10:59.057 +03:00 [INF] HTTP GET /api/market/quote/SUI responded 200 in 468.4564 ms
+2025-08-21 17:11:10.595 +03:00 [DBG] Found CoinGecko ID 'ethena-usde' for symbol 'USDE'
+2025-08-21 17:11:10.600 +03:00 [DBG] Fetching price for USDE from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=ethena-usde&vs_currencies=usd
+2025-08-21 17:11:10.821 +03:00 [INF] Real price for USDE: $1.001
+2025-08-21 17:11:10.827 +03:00 [INF] GET /api/market/quote/USDE -> 200 in 613 ms
+2025-08-21 17:11:10.834 +03:00 [INF] HTTP GET /api/market/quote/USDE responded 200 in 619.9322 ms
+2025-08-21 17:11:26.728 +03:00 [DBG] Found CoinGecko ID 'cardano' for symbol 'ADA'
+2025-08-21 17:11:26.734 +03:00 [DBG] Fetching price for ADA from CoinGecko: https://api.coingecko.com/api/v3/simple/price?ids=cardano&vs_currencies=usd
+2025-08-21 17:11:26.816 +03:00 [INF] Real price for ADA: $0.870684
+2025-08-21 17:11:26.821 +03:00 [INF] GET /api/market/quote/ADA -> 200 in 410 ms
+2025-08-21 17:11:26.829 +03:00 [INF] HTTP GET /api/market/quote/ADA responded 200 in 417.5510 ms
+2025-08-21 17:15:45.678 +03:00 [INF] Seeded demo data
+2025-08-21 17:15:45.918 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 17:15:46.750 +03:00 [INF] GET /swagger -> 301 in 48 ms
+2025-08-21 17:15:46.770 +03:00 [INF] HTTP GET /swagger responded 301 in 72.1114 ms
+2025-08-21 17:15:46.990 +03:00 [INF] GET /swagger/index.html -> 200 in 160 ms
+2025-08-21 17:15:46.999 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 169.1095 ms
+2025-08-21 17:15:47.086 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 32 ms
+2025-08-21 17:15:47.086 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 31 ms
+2025-08-21 17:15:47.092 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 38.6985 ms
+2025-08-21 17:15:47.092 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 37 ms
+2025-08-21 17:15:47.097 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 43.0023 ms
+2025-08-21 17:15:47.109 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 54.8868 ms
+2025-08-21 17:15:47.742 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 260 ms
+2025-08-21 17:15:47.749 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 266.5195 ms
+2025-08-21 17:15:55.783 +03:00 [INF] GET /api/Portfolios -> 200 in 88 ms
+2025-08-21 17:15:55.789 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 95.1782 ms
+2025-08-21 17:20:40.830 +03:00 [INF] Seeded demo data
+2025-08-21 17:20:41.012 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-21 17:20:41.962 +03:00 [INF] GET /swagger -> 301 in 77 ms
+2025-08-21 17:20:41.990 +03:00 [INF] HTTP GET /swagger responded 301 in 105.5782 ms
+2025-08-21 17:20:42.244 +03:00 [INF] GET /swagger/index.html -> 200 in 148 ms
+2025-08-21 17:20:42.250 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 155.1016 ms
+2025-08-21 17:20:42.302 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 30 ms
+2025-08-21 17:20:42.302 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 30 ms
+2025-08-21 17:20:42.307 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 35 ms
+2025-08-21 17:20:42.308 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 37.2055 ms
+2025-08-21 17:20:42.313 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 41.9540 ms
+2025-08-21 17:20:42.318 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 47.0053 ms
+2025-08-21 17:20:42.850 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 242 ms
+2025-08-21 17:20:42.856 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 248.2825 ms
+2025-08-21 17:21:31.731 +03:00 [INF] GET /swagger/index.html -> 200 in 0 ms
+2025-08-21 17:21:31.740 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 9.4645 ms
+2025-08-21 17:21:31.944 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 25 ms
+2025-08-21 17:21:31.951 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 33.0917 ms
+2025-08-21 17:21:32.042 +03:00 [INF] GET /swagger/favicon-32x32.png -> 200 in 0 ms
+2025-08-21 17:21:32.049 +03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 7.6135 ms
+2025-08-21 17:21:56.738 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-21 17:21:57.165 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-21 17:21:57.214 +03:00 [INF] GET /api/market/top -> 200 in 491 ms
+2025-08-21 17:21:57.223 +03:00 [INF] HTTP GET /api/market/top responded 200 in 500.1932 ms
+2025-08-21 17:22:07.341 +03:00 [INF] GET /api/Portfolios -> 200 in 75 ms
+2025-08-21 17:22:07.348 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 82.6222 ms
+2025-08-21 17:22:08.512 +03:00 [INF] GET /api/Portfolios -> 200 in 1 ms
+2025-08-21 17:22:08.518 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 7.5418 ms
+2025-08-21 17:23:27.212 +03:00 [INF] GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 200 in 23 ms
+2025-08-21 17:23:27.219 +03:00 [INF] HTTP GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 200 in 30.5950 ms
+2025-08-21 17:26:13.016 +03:00 [INF] PUT /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 204 in 40 ms
+2025-08-21 17:26:13.023 +03:00 [INF] HTTP PUT /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 204 in 47.4497 ms
+2025-08-21 17:26:19.015 +03:00 [INF] PUT /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 204 in 1 ms
+2025-08-21 17:26:19.024 +03:00 [INF] HTTP PUT /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 204 in 9.9481 ms
+2025-08-21 17:26:33.763 +03:00 [INF] GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 200 in 0 ms
+2025-08-21 17:26:33.769 +03:00 [INF] HTTP GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 200 in 6.3455 ms
+2025-08-21 17:29:06.732 +03:00 [INF] GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 200 in 0 ms
+2025-08-21 17:29:06.740 +03:00 [INF] HTTP GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 200 in 9.5918 ms
+2025-08-21 17:29:26.443 +03:00 [INF] DELETE /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 204 in 10 ms
+2025-08-21 17:29:26.450 +03:00 [INF] HTTP DELETE /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 204 in 18.0328 ms
+2025-08-21 17:29:27.629 +03:00 [INF] DELETE /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 404 in 29 ms
+2025-08-21 17:29:27.636 +03:00 [INF] HTTP DELETE /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 404 in 36.3247 ms
+2025-08-21 17:29:34.742 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 17:29:34.749 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 6.9284 ms
+2025-08-21 17:30:04.996 +03:00 [INF] POST /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076/holdings -> 404 in 19 ms
+2025-08-21 17:30:05.002 +03:00 [INF] HTTP POST /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076/holdings responded 404 in 25.4731 ms
+2025-08-21 17:30:32.357 +03:00 [INF] POST /api/Portfolios -> 201 in 42 ms
+2025-08-21 17:30:32.363 +03:00 [INF] HTTP POST /api/Portfolios responded 201 in 48.3612 ms
+2025-08-21 17:30:33.557 +03:00 [INF] POST /api/Portfolios -> 201 in 1 ms
+2025-08-21 17:30:33.563 +03:00 [INF] HTTP POST /api/Portfolios responded 201 in 7.2417 ms
+2025-08-21 17:31:05.218 +03:00 [INF] GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 -> 404 in 0 ms
+2025-08-21 17:31:05.221 +03:00 [INF] HTTP GET /api/Portfolios/d60b863a-2ec6-4630-aa46-75f659f7d076 responded 404 in 4.1340 ms
+2025-08-21 17:31:13.568 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 17:31:13.571 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 4.0096 ms
+2025-08-21 17:32:03.479 +03:00 [INF] DELETE /api/Portfolios/2e214cf3-ecf8-4f27-ae4f-e8106c549438 -> 204 in 0 ms
+2025-08-21 17:32:03.485 +03:00 [INF] HTTP DELETE /api/Portfolios/2e214cf3-ecf8-4f27-ae4f-e8106c549438 responded 204 in 6.0226 ms
+2025-08-21 17:32:12.037 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 17:32:12.045 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 8.5364 ms
+2025-08-21 17:32:30.311 +03:00 [INF] DELETE /api/Portfolios/80ac273c-9967-46ab-b36c-d2bcbb60e88a -> 204 in 0 ms
+2025-08-21 17:32:30.317 +03:00 [INF] HTTP DELETE /api/Portfolios/80ac273c-9967-46ab-b36c-d2bcbb60e88a responded 204 in 6.5552 ms
+2025-08-21 17:32:46.569 +03:00 [INF] POST /api/Portfolios -> 201 in 0 ms
+2025-08-21 17:32:46.575 +03:00 [INF] HTTP POST /api/Portfolios responded 201 in 6.6607 ms
+2025-08-21 17:32:54.449 +03:00 [INF] GET /api/Portfolios -> 200 in 0 ms
+2025-08-21 17:32:54.455 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 6.4155 ms
+2025-08-21 17:33:10.454 +03:00 [INF] POST /api/Portfolios/2a9abcea-ff2d-4dc6-bfca-661870e0d52a/holdings -> 201 in 1 ms
+2025-08-21 17:33:10.462 +03:00 [INF] HTTP POST /api/Portfolios/2a9abcea-ff2d-4dc6-bfca-661870e0d52a/holdings responded 201 in 9.0809 ms
+2025-08-21 17:33:18.572 +03:00 [INF] GET /api/Portfolios/2a9abcea-ff2d-4dc6-bfca-661870e0d52a -> 200 in 0 ms
+2025-08-21 17:33:18.577 +03:00 [INF] HTTP GET /api/Portfolios/2a9abcea-ff2d-4dc6-bfca-661870e0d52a responded 200 in 5.6656 ms
+2025-08-21 17:33:49.681 +03:00 [INF] DELETE /api/Portfolios/2a9abcea-ff2d-4dc6-bfca-661870e0d52a/holdings/df79aef0-b955-4689-a00d-57c719f4098c -> 204 in 14 ms
+2025-08-21 17:33:49.688 +03:00 [INF] HTTP DELETE /api/Portfolios/2a9abcea-ff2d-4dc6-bfca-661870e0d52a/holdings/df79aef0-b955-4689-a00d-57c719f4098c responded 204 in 21.5589 ms

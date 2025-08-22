@@ -1,0 +1,43 @@
+2025-08-20 17:18:49.605 +03:00 [INF] Seeded demo data
+2025-08-20 17:18:49.799 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-08-20 17:18:50.774 +03:00 [INF] GET /swagger -> 301 in 77 ms
+2025-08-20 17:18:50.792 +03:00 [INF] HTTP GET /swagger responded 301 in 100.2666 ms
+2025-08-20 17:18:50.948 +03:00 [INF] GET /swagger/index.html -> 200 in 127 ms
+2025-08-20 17:18:50.953 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 133.6629 ms
+2025-08-20 17:18:51.005 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 29 ms
+2025-08-20 17:18:51.005 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 29 ms
+2025-08-20 17:18:51.009 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 33.7783 ms
+2025-08-20 17:18:51.011 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 36.1900 ms
+2025-08-20 17:18:51.022 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 46 ms
+2025-08-20 17:18:51.025 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 50.2950 ms
+2025-08-20 17:18:51.282 +03:00 [INF] GET /swagger/favicon-32x32.png -> 200 in 0 ms
+2025-08-20 17:18:51.285 +03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 4.2725 ms
+2025-08-20 17:18:51.561 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 286 ms
+2025-08-20 17:18:51.565 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 290.3025 ms
+2025-08-20 17:26:03.307 +03:00 [INF] GET /api/Assets -> 200 in 95 ms
+2025-08-20 17:26:03.313 +03:00 [INF] HTTP GET /api/Assets responded 200 in 101.7133 ms
+2025-08-20 17:26:18.781 +03:00 [INF] GET /api/Assets -> 200 in 2 ms
+2025-08-20 17:26:18.788 +03:00 [INF] HTTP GET /api/Assets responded 200 in 9.2656 ms
+2025-08-20 17:33:12.321 +03:00 [INF] GET /api/Assets -> 200 in 2 ms
+2025-08-20 17:33:12.329 +03:00 [INF] HTTP GET /api/Assets responded 200 in 10.5459 ms
+2025-08-20 17:37:19.559 +03:00 [INF] GET /swagger/index.html -> 200 in 0 ms
+2025-08-20 17:37:19.566 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 7.4203 ms
+2025-08-20 17:37:19.602 +03:00 [INF] GET /swagger/swagger-ui.css -> 200 in 2 ms
+2025-08-20 17:37:19.607 +03:00 [INF] GET /swagger/swagger-ui-standalone-preset.js -> 200 in 3 ms
+2025-08-20 17:37:19.610 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 10.9617 ms
+2025-08-20 17:37:19.615 +03:00 [INF] GET /swagger/swagger-ui-bundle.js -> 200 in 11 ms
+2025-08-20 17:37:19.619 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 15.3241 ms
+2025-08-20 17:37:19.635 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 32.1022 ms
+2025-08-20 17:37:19.949 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 23 ms
+2025-08-20 17:37:19.952 +03:00 [INF] GET /swagger/favicon-32x32.png -> 200 in 0 ms
+2025-08-20 17:37:19.955 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 29.6609 ms
+2025-08-20 17:37:19.960 +03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 8.0631 ms
+2025-08-20 17:37:38.502 +03:00 [INF] Asset created XRC "e7e6579a-41c9-4716-a872-497c54456a00"
+2025-08-20 17:37:38.536 +03:00 [INF] POST /api/Assets -> 201 in 69 ms
+2025-08-20 17:37:38.542 +03:00 [INF] HTTP POST /api/Assets responded 201 in 76.1055 ms
+2025-08-20 17:37:49.598 +03:00 [INF] GET /api/Assets -> 200 in 0 ms
+2025-08-20 17:37:49.604 +03:00 [INF] HTTP GET /api/Assets responded 200 in 7.0390 ms
+2025-08-20 17:42:14.475 +03:00 [INF] GET /dashboard -> 200 in 14 ms
+2025-08-20 17:42:14.481 +03:00 [INF] HTTP GET /dashboard responded 200 in 20.5032 ms
+2025-08-20 18:12:02.017 +03:00 [INF] GET /api/Portfolios -> 200 in 20 ms
+2025-08-20 18:12:02.022 +03:00 [INF] HTTP GET /api/Portfolios responded 200 in 25.4719 ms

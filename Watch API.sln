@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watch API", "Watch API\Watch API.csproj", "{87843E91-F8D8-457E-AC07-008F3B4A97C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87843E91-F8D8-457E-AC07-008F3B4A97C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87843E91-F8D8-457E-AC07-008F3B4A97C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87843E91-F8D8-457E-AC07-008F3B4A97C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87843E91-F8D8-457E-AC07-008F3B4A97C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

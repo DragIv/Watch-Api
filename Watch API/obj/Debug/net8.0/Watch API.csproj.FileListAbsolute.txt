@@ -1,0 +1,44 @@
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\appsettings.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Watch API.exe
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Watch API.deps.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Watch API.runtimeconfig.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Watch API.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Watch API.pdb
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Watch API.xml
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.csproj.AssemblyReference.cache
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.AssemblyInfoInputs.cache
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.AssemblyInfo.cs
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.csproj.CoreCompileInputs.cache
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets\msbuild.Watch API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets\msbuild.build.Watch API.props
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Watch API.props
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Watch API.props
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\scopedcss\bundle\Watch API.styles.css
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.csproj.Up2Date
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\refint\Watch API.dll
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.xml
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.pdb
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\Watch API.genruntimeconfig.cache
+C:\Users\ivan\RiderProjects\Watch API\Watch API\obj\Debug\net8.0\ref\Watch API.dll

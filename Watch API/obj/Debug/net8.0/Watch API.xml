@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Watch API</name>
+    </assembly>
+    <members>
+        <member name="M:Watch_API.Controllers.PortfoliosController.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Получить все портфели
+            </summary>
+            <returns>Список всех портфелей с кратким описанием</returns>
+        </member>
+        <member name="M:Watch_API.Controllers.PortfoliosController.Get(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Получить детали портфеля
+            </summary>
+            <param name="id">ID портфеля</param>
+            <returns>Подробная информация о портфеле со всеми позициями</returns>
+        </member>
+        <member name="M:Watch_API.Controllers.PortfoliosController.Create(Watch_API.DTO.CreatePortfolioDto,System.Threading.CancellationToken)">
+            <summary>
+            Создать новый портфель
+            </summary>
+            <param name="dto">Данные владельца портфеля</param>
+        </member>
+        <member name="M:Watch_API.Controllers.PortfoliosController.Update(System.Guid,Watch_API.DTO.UpdatePortfolioDto,System.Threading.CancellationToken)">
+            <summary>
+            Обновить информацию о портфеле (имя)
+            </summary>
+            <param name="id">ID портфеля для обновления</param>
+            <param name="dto">Новые данные портфеля (владелец)</param>
+        </member>
+        <member name="M:Watch_API.Controllers.PortfoliosController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Удалить весь портфель
+            </summary>
+            <param name="id">ID портфеля для удаления</param>
+        </member>
+        <member name="M:Watch_API.Controllers.PortfoliosController.AddHolding(System.Guid,Watch_API.DTO.AddHoldingDto,System.Threading.CancellationToken)">
+            <summary>
+            Добавить криптовалюту в портфель (купить)
+            </summary>
+            <param name="portfolioId">ID портфеля</param>
+            <param name="dto">Какую криптовалюту и сколько добавить</param>
+            <returns>Созданная позиция в портфеле</returns>
+        </member>
+        <member name="M:Watch_API.Controllers.PortfoliosController.DeleteHolding(System.Guid,System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Удалить криптовалюту из портфеля (продать все)
+            </summary>
+            <param name="portfolioId">ID портфеля</param>
+            <param name="holdingId">ID позиции для удаления</param>
+        </member>
+        <member name="M:Watch_API.Services.MarketService.GetCoinIdAsync(System.String)">
+            <summary>
+            Ищет ID монеты по её символу через API CoinGecko.
+            </summary>
+        </member>
+    </members>
+</doc>
