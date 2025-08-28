@@ -51,6 +51,18 @@
             <param name="portfolioId">ID портфеля</param>
             <param name="holdingId">ID позиции для удаления</param>
         </member>
+        <member name="T:Watch_API.Migrations.AddedСonfigurationFiles">
+            <inheritdoc />
+        </member>
+        <member name="M:Watch_API.Migrations.AddedСonfigurationFiles.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Watch_API.Migrations.AddedСonfigurationFiles.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Watch_API.Migrations.AddedСonfigurationFiles.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
         <member name="M:Watch_API.Services.MarketService.GetCoinIdAsync(System.String)">
             <summary>
             Ищет ID монеты по её символу через API CoinGecko.

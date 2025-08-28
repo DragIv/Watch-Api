@@ -11,7 +11,6 @@ public class PortfoliosController : ControllerBase
 {
     private readonly IPortfolioRepository _repo;
 
-
     public PortfoliosController(IPortfolioRepository repo) => _repo = repo;
 
     /// <summary>
@@ -80,7 +79,6 @@ public class PortfoliosController : ControllerBase
     public async Task<IActionResult> Delete(Guid id, CancellationToken ct)
         => (await _repo.DeleteAsync(id, ct)) ? NoContent() : NotFound();
 
-
     /// <summary>
     /// Добавить криптовалюту в портфель (купить)
     /// </summary>
@@ -92,14 +90,15 @@ public class PortfoliosController : ControllerBase
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<IActionResult> AddHolding(Guid portfolioId, [FromBody] AddHoldingDto dto, CancellationToken ct)
     {
-        var p = await _repo.GetByIdAsync(portfolioId, ct);
-        if (p is null) return NotFound();
-        var h = new Holding { Symbol = dto.Symbol.ToUpperInvariant(), Amount = dto.Amount };
-        p.Holdings.Add(h);
-        await _repo.UpdateAsync(p, ct);
-        return CreatedAtAction(nameof(Get), new { id = p.Id }, new HoldingDto(h.Id, h.Symbol, h.Amount));
+        var holding = await _repo.AddHoldingAsync(portfolioId, dto.Symbol.ToUpperInvariant(), dto.Amount, ct);
+        if (holding == null) 
+        {
+            return NotFound($"Portfolio with ID {portfolioId} not found");
+        }
+        
+        return CreatedAtAction(nameof(Get), new { id = portfolioId }, 
+            new HoldingDto(holding.Id, holding.Symbol, holding.Amount));
     }
-
     
     /// <summary>
     /// Удалить криптовалюту из портфеля (продать все)
@@ -111,10 +110,7 @@ public class PortfoliosController : ControllerBase
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<IActionResult> DeleteHolding(Guid portfolioId, Guid holdingId, CancellationToken ct)
     {
-        var p = await _repo.GetByIdAsync(portfolioId, ct);
-        if (p is null) return NotFound();
-        var removed = p.Holdings.RemoveAll(h => h.Id == holdingId) > 0;
-        if (!removed) return NotFound();
-        return await _repo.UpdateAsync(p, ct) ? NoContent() : NotFound();
+        var success = await _repo.RemoveHoldingAsync(portfolioId, holdingId, ct);
+        return success ? NoContent() : NotFound();
     }
 }

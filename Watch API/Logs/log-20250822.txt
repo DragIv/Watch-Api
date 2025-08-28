@@ -54,3 +54,22 @@
 2025-08-22 16:17:50.728 +03:00 [INF] HTTP DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce responded 401 in 8.2896 ms
 2025-08-22 16:17:52.102 +03:00 [INF] DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce -> 401 in 0 ms
 2025-08-22 16:17:52.106 +03:00 [INF] HTTP DELETE /api/Portfolios/03bb172b-7e0e-46a7-9a18-9529732207ce responded 401 in 4.3632 ms
+2025-08-22 17:16:37.884 +03:00 [INF] Seeded demo data
+2025-08-22 17:16:38.886 +03:00 [INF] GET /swagger/index.html -> 200 in 143 ms
+2025-08-22 17:16:38.905 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 167.0064 ms
+2025-08-22 17:16:39.255 +03:00 [INF] GET /swagger/v1/swagger.json -> 200 in 159 ms
+2025-08-22 17:16:39.259 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 163.4080 ms
+2025-08-22 17:16:46.074 +03:00 [INF] GET /api -> 404 in 0 ms
+2025-08-22 17:16:46.078 +03:00 [INF] HTTP GET /api responded 404 in 5.0952 ms
+2025-08-22 17:16:47.913 +03:00 [INF] GET /api -> 404 in 0 ms
+2025-08-22 17:16:47.916 +03:00 [INF] HTTP GET /api responded 404 in 3.4926 ms
+2025-08-22 17:16:48.742 +03:00 [INF] GET /api -> 404 in 0 ms
+2025-08-22 17:16:48.745 +03:00 [INF] HTTP GET /api responded 404 in 3.6297 ms
+2025-08-22 17:16:55.416 +03:00 [INF] GET /dashboard -> 200 in 2 ms
+2025-08-22 17:16:55.419 +03:00 [INF] HTTP GET /dashboard responded 200 in 5.9249 ms
+2025-08-22 17:16:55.472 +03:00 [DBG] Requesting top 20 coins from CoinGecko: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false
+2025-08-22 17:16:55.474 +03:00 [INF] GET /favicon.ico -> 404 in 0 ms
+2025-08-22 17:16:55.478 +03:00 [INF] HTTP GET /favicon.ico responded 404 in 3.9074 ms
+2025-08-22 17:16:55.993 +03:00 [INF] Parsed 20 PriceTicks
+2025-08-22 17:16:56.024 +03:00 [INF] GET /api/market/top -> 200 in 570 ms
+2025-08-22 17:16:56.029 +03:00 [INF] HTTP GET /api/market/top responded 200 in 576.3927 ms

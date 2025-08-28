@@ -9,4 +9,8 @@ public interface IPortfolioRepository
     Task<Portfolio> AddAsync(Portfolio portfolio, CancellationToken ct);
     Task<bool> UpdateAsync(Portfolio portfolio, CancellationToken ct);
     Task<bool> DeleteAsync(Guid id, CancellationToken ct);
+    
+    // методы для работы с Holdings
+    Task<Holding?> AddHoldingAsync(Guid portfolioId, string symbol, decimal amount, CancellationToken ct);
+    Task<bool> RemoveHoldingAsync(Guid portfolioId, Guid holdingId, CancellationToken ct);
 }
