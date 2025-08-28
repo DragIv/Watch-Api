@@ -17,6 +17,8 @@ ASP.NET Core REST API для управления криптовалютными
 
 - ASP.NET Core 8.0 - веб-фреймворк
 - REST API - архитектурный стиль
+- Entity Framework Core (ORM)
+- PostgreSQL - реляционная база данных
 - Swagger/OpenAPI - документация API
 - Serilog - структурированное логирование
 - In-Memory Repository - паттерн репозиторий
@@ -31,6 +33,10 @@ ASP.NET Core REST API для управления криптовалютными
   - HTTP методы
   - Статус коды
   - Content negotiation: JSON формат
+- **Работа с базой данных**
+  - Entity Framework Core
+  - Code first подход
+  - Database Migrations
 - **ASP.NET Core архитектура:**
   - Controller-based routing
   - Minimal APIs
@@ -47,6 +53,7 @@ ASP.NET Core REST API для управления криптовалютными
 
 **Предварительные требования:**
 - .NET 8.0 SDK или выше
+- PostgreSQL 12+
 - IDE: Visual Studio, Rider, или VS Code
 
 ### Инструкции по запуску:
@@ -55,11 +62,19 @@ ASP.NET Core REST API для управления криптовалютными
     git clone https://github.com/DragIv/Watch-Api.git
     cd watch-api
     ```
-2.  **Восстановить зависимости:**
+2.  **Настроить строку подключения: Создайте файл `appsettings.Development.json` или настройте переменные окружения:**
+    ```json
+    {
+      "ConnectionStrings": {
+        "DefaultConnection": "Host=localhost;Port=...;Database=CryptoWatchDB;Username=postgres;Password=yourpassword"
+      }
+    }
+    ```
+4.  **Восстановить зависимости:**
     ```bash
     dotnet restore
     ```
-3.  **Запустить приложение:**
+5.  **Запустить приложение:**
     ```bash
     dotnet run
     ```
@@ -117,7 +132,7 @@ ASP.NET Core REST API для управления криптовалютными
 
 Для production-ready версии можно добавить:
 
-- [ ] Реальная база данных (Entity Framework Core + PostgreSQL/SQL Server)
+- [V] Реальная база данных (Entity Framework Core + PostgreSQL/SQL Server)
 - [ ] JWT Authentication вместо API ключей
 - [ ] Application Insights или другой APM
 - [ ] Rate Limiting для API endpoints
